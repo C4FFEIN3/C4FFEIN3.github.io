@@ -4,7 +4,25 @@ title:  "Minseon Cho"
 date:   2020-10-21 21:03:36 +0530
 categories: Profile
 ---
-...
+Student
+
+Department of Computer Engineering
+
+Changwon National University
+
+
+
+**Email**
+
+seonjm@changwon.ac.kr
+
+
+
+[Noslab]: https://noslab.github.io/
+[CE]: http://www.changwon.ac.kr/ce
+[CWNU]: http://www.changwon.ac.kr/
+
+
 
 ```javascript
 const Razorpay = require('razorpay');
