@@ -5,7 +5,7 @@ date:   2020-10-21 21:03:36 +0530
 categories: Profile
 ---
 
-Student
+Undergraduate student
 <br>
 Department of Computer Engineering
 <br>
@@ -22,3 +22,21 @@ seonjm@changwon.ac.kr
 [Noslab]: https://noslab.github.io/
 [CE]: http://www.changwon.ac.kr/ce
 [CWNU]: http://www.changwon.ac.kr/
+<br>
+
+<br>
+
+<br>
+
+I am a undergraduate student at CWNU. I am a member of Next-generation Operating System Lab (NOSlab) led by Prof. Donghyun Kang.
+
+<br>
+
+<br>
+
+<br>
+
+## Research Interests
+
+- Computer Systems
+
