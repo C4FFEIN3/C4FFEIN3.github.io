@@ -6,20 +6,19 @@ categories: Profile
 ---
 
 Student
-
+<br>
 Department of Computer Engineering
-
+<br>
 Changwon National University
-
-
-
+<br>
+<br>
 **Email**
-
+<br>
 seonjm@changwon.ac.kr
-
-
+<br>
+<br>
 [Noslab]: https://noslab.github.io/
-
+<br>
 [CE]: http://www.changwon.ac.kr/ce
-
+<br>
 [CWNU]: http://www.changwon.ac.kr/
