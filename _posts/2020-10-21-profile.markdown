@@ -17,4 +17,8 @@ Changwon National University
 seonjm@changwon.ac.kr
 <br>
 <br>
-<a herf="https://noslab.github.io/" >Noslab</a> | <a herf=" http://www.changwon.ac.kr/ce">CE</a> | <a herf="http://www.changwon.ac.kr/">CWNU</a>
+[Noslab][Noslab] | [CE][CE] | [CWNU][CWNU]
+
+[Noslab]: https://noslab.github.io/
+[CE]: http://www.changwon.ac.kr/ce
+[CWNU]: http://www.changwon.ac.kr/
