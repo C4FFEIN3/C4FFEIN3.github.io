@@ -26,11 +26,7 @@ seonjm@changwon.ac.kr
 
 <br>
 
-<br>
-
 I am a undergraduate student at CWNU. I am a member of Next-generation Operating System Lab (NOSlab) led by Prof. Donghyun Kang.
-
-<br>
 
 <br>
 
@@ -40,3 +36,8 @@ I am a undergraduate student at CWNU. I am a member of Next-generation Operating
 
 - Computer Systems
 
+<br>
+
+<br>
+
+<br>
