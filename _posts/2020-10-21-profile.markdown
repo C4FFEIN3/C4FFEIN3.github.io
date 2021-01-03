@@ -54,7 +54,7 @@ I am a undergraduate student at CWNU. I am a member of Next-generation Operating
 
 ## Awards
 
-- **[08/2020]** AI RUSH 2020 (1st Prize), Naver Corporation
+- **[08/2020]** AI RUSH 2020 (글의 분위기, 톤, 문법을 통한 종합 평가/추천 부문 1st Prize), Naver Corporation
 - **[12/2020]** 2020 전자통신학술대회(부산/울산/경남지부) 우수논문상, The Institute of Electronics and Information Engineers (IEIE)
 
 <br>
