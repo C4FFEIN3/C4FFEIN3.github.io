@@ -33,6 +33,7 @@ I am a undergraduate student at CWNU. I am a member of Next-generation Operating
 ## Research Interests
 
 - Computer Systems
+- AI for Systems
 
 <br>
 
