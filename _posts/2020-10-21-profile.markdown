@@ -42,12 +42,15 @@ I am a M.S. student at CWNU. I am a member of Next-generation Operating System L
 ## Publications
 
 - **IoT 환경을 위한 파일시스템 분석** (Conference paper)
-
   조민선, 강동현
-
   *2020 전자통신학술대회(부산/울산/경남지부)*, 2020.12
-
   **우수논문상**
+- **L2LRU: LRU 페이지 교체 기법을 위한 러닝 기반 페이지 이동 정책** (Journal article)
+  조민선, 강동현
+  *한국정보과학회논문지 (**JOK**)*, (to appear)
+- **기계 학습 기반 페이지 교체 정책** (Conference paper)
+  조민선, 강동현
+  *2021년 한국컴퓨터종합학술대회 논문집 (**KCC**)*, 2021.06
 
 <br>
 
